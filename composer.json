@@ -17,7 +17,7 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "codesleeve/stapler": "dev-github-support",
+        "codesleeve/stapler": "dev-github-storage",
         "laravel/framework": "4.*|5.*"
     },
     "autoload": {
