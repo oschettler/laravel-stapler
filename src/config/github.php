@@ -13,6 +13,6 @@ return [
     |
     */
 
-    'path' => ':attachment/:id/:style/:filename',
+    'path' => '/system/:attachment/:id_partition/:raw_style/:filename',
 
 ];
